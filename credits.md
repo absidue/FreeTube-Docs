@@ -32,6 +32,7 @@ FreeTube uses the following modules / projects:
 | [autolinker](https://github.com/gregjacobs/Autolinker.js)                          | MIT        |
 | [bgutils-js](https://github.com/LuanRT/BgUtils)                                    | MIT        |
 | [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)     | MIT        |
+| [googlevideo](https://github.com/LuanRT/googlevideo)                               | MIT        |
 | [marked](https://github.com/markedjs/marked)                                       | MIT        |
 | [path-browserify](https://github.com/browserify/path-browserify)                   | MIT        |
 | [portal-vue](https://github.com/LinusBorg/portal-vue)                              | MIT        |
